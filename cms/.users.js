@@ -1,4 +1,4 @@
-{
+({
 	users: [
 		{
 			username: 'gottwik',
@@ -21,6 +21,13 @@
 			salt: '7c331095761f62df502eec24d5b058c5',
 			hash: 'ec76ad92f48c0c78a53f3b7a0bf6cc28577eaeedcc151fc656d7306cefe709c7',
 			user_created_timestamp: 1470920004201
+		},
+		{
+			username: 'admin',
+			tags: [],
+			salt: '05568f54d03d5700820be01ca1cd6610',
+			hash: '1446d8d04d50b023e4f8a9da8910754c10699d9bc7672b55a6685c20dd0de66e',
+			user_created_timestamp: 1524453977120
 		}
 	]
-}
+})
